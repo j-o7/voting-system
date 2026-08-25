@@ -9,7 +9,7 @@ exposed over a **REST API** and pushed live over **WebSocket**.
 ## Quick start
 
 ```powershell
-cd C:\Users\abcdj\OneDrive\Desktop\code\voting-system
+cd ./voting-system
 npm install      # first time only
 npm run dev      # starts REST + WS on http://localhost:3000 (auto-reloads)
 ```
